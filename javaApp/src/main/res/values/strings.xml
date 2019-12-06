@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Guitar Students </string>
+    <string name="EnterName">Enter student name</string>
+    <string name="EnterLessonDay">Enter day of lesson\'s</string>
+    <string name="EnterLessonTime">Enter lesson time</string>
+    <string name="EnterPayment">Enter payment per month</string>
+    <string name="EnterId">Enter Id if deleting or uptating</string>
+    <string name="nameView">Name :</string>
+    <string name="DayView">Day :</string>
+    <string name="timeView">Time :</string>
+    <string name="idView">ID :</string>
+    <string name="paymentView">PMT :</string>
+    <string name="weekdayHint">week day of lesson\'s</string>
+    <string name="paymentHint">per month</string>
+    <string name="nameHint">students name</string>
+    <string name="timeHint">time of weekly lesson</string>
+    <string name="idHint">enter only if deleting/editing</string>
+</resources>
